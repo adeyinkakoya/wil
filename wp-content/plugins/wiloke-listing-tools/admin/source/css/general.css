@@ -1,0 +1,90 @@
+.ui.button{
+    height: auto !important;
+}
+
+@keyframes heartbeat {
+    0% {
+        transform: scale( .75);
+    }
+    20% {
+        transform: scale( 1);
+    }
+    40% {
+        transform: scale( .75);
+    }
+    60% {
+        transform: scale( 1);
+    }
+    80% {
+        transform: scale( .75);
+    }
+    100% {
+        transform: scale( .75);
+    }
+}
+
+.la.heartbeat{
+    animation: heartbeat 1s infinite;
+}
+
+.hidden{
+    display: none;
+}
+
+.cmb2-metabox .select2-container{
+    min-width: 150px;
+}
+
+.ui.form .field>label{
+    font-weight: 700 !important;
+}
+
+/******************** dashboad icons *******************/
+/********* Wiloke Tools *********/
+#toplevel_page_wiloke-listing-tools .dashicons-before{
+    line-height: 32px;
+}
+#toplevel_page_wiloke-listing-tools .dashicons-before:before {
+    content: "";
+    background-image: url(img/wiloke-tools.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 18px;
+    vertical-align: middle;
+}
+
+#menu-posts-listing .dashicons-before{
+    line-height: 32px;
+}
+#menu-posts-listing .dashicons-before:before {
+    content: "";
+    background-image: url(img/listing.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 18px;
+    vertical-align: middle;
+}
+
+#menu-posts-event .dashicons-before{
+    line-height: 32px;
+}
+#menu-posts-event .dashicons-before:before {
+    content: "";
+    background-image: url(img/event.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 18px;
+    vertical-align: middle;
+}
+
+#menu-posts-review .dashicons-before{
+    line-height: 32px;
+}
+#menu-posts-review .dashicons-before:before {
+    content: "";
+    background-image: url(img/reviews.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 18px;
+    vertical-align: middle;
+}

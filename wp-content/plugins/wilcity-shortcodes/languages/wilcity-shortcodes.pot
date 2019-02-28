@@ -1,0 +1,306 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WilCity Shortcodes\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-10-20 17:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: app/SCHelpers.php:43
+#, php-format
+msgid "%d Comments"
+msgstr ""
+
+#: default-sc/wilcity-sidebar-statistics.php:56
+#, php-format
+msgid "%d Favorite"
+msgid_plural "%d Favorites"
+msgstr[0] ""
+msgstr[1] ""
+
+#: app/SCHelpers.php:346
+#, php-format
+msgid "%d person interested"
+msgid_plural "%d people interested"
+msgstr[0] ""
+msgstr[1] ""
+
+#: default-sc/wilcity-sidebar-statistics.php:48
+#, php-format
+msgid "%d Rating"
+msgid_plural "%d Ratings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: default-sc/wilcity-sidebar-statistics.php:64
+#, php-format
+msgid "%d Share"
+msgid_plural "%d Shares"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/wilcity_widget_list_style.php:26
+#, php-format
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/wilcity_render_modern_term_box.php:30
+#: core/wilcity_render_term_box.php:56
+#, php-format
+msgid "%s Listing"
+msgid_plural "%s Listings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/wilcity_render_modern_term_box.php:28
+#, php-format
+msgid "%s Sub category"
+msgid_plural "%s Sub categories"
+msgstr[0] ""
+msgstr[1] ""
+
+#: default-sc/wilcity-sidebar-statistics.php:40
+#, php-format
+msgid "%s Views"
+msgstr ""
+
+#: app/SCHelpers.php:39
+msgid "1 Comment"
+msgstr ""
+
+#: app/SCHelpers.php:41
+msgid "2 Comments"
+msgstr ""
+
+#: default-sc/wilcity-my-bank-account.php:22
+msgid "Account Name"
+msgstr ""
+
+#: default-sc/wilcity-my-bank-account.php:23
+msgid "Account Number"
+msgstr ""
+
+#: app/SCHelpers.php:333
+msgid "Ads"
+msgstr ""
+
+#: default-sc/wilcity-my-bank-account.php:24
+msgid "Bank Name"
+msgstr ""
+
+#: default-sc/wilcity-my-bank-account.php:27
+msgid "BIC/Swift"
+msgstr ""
+
+#: default-sc/wilcity-sidebar-claim.php:22
+msgid "Claim Listing"
+msgstr ""
+
+#: default-sc/wilcity-sidebar-claim.php:24
+msgid "Claim listing is the best way to manage and protect your business."
+msgstr ""
+
+#: default-sc/wilcity-sidebar-claim.php:46
+msgid "Claim Now"
+msgstr ""
+
+#: default-sc/wilcity-sidebar-business-hours.php:74
+msgid "Closed"
+msgstr ""
+
+#: default-sc/wilcity-sharing-posts.php:121
+msgid "Copy link"
+msgstr ""
+
+#: default-sc/wilcity-sidebar-business-hours.php:116
+msgid "Day Off"
+msgstr ""
+
+#: config.php:1473
+msgid "Display single icon"
+msgstr ""
+
+#: default-sc/wilcity-sidebar-statistics.php:56
+msgid "Favorite"
+msgstr ""
+
+#: core/wilcity_render_author_slider.php:44
+msgid "Follow"
+msgstr ""
+
+#: core/wilcity_render_author_slider.php:44
+msgid "Following"
+msgstr ""
+
+#: config.php:1718
+msgid "Friday"
+msgstr ""
+
+#: app/SCHelpers.php:383
+msgid "Gallery"
+msgstr ""
+
+#: default-sc/wilcity-pricing.php:93
+msgid "Get Now"
+msgstr ""
+
+#: config.php:705
+msgid "Hero"
+msgstr ""
+
+#: core/wilcity_render_event_item.php:49
+msgid "Hosted By"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://wiloke.com"
+msgstr ""
+
+#: default-sc/wilcity-my-bank-account.php:26
+msgid "IBAN"
+msgstr ""
+
+#: core/wilcity_post_slider_item.php:19 core/wilcity_render_event_item.php:53
+msgid "Interested"
+msgstr ""
+
+#: default-sc/wilcity-sidebar-claim.php:23
+msgid "Is this your business?"
+msgstr ""
+
+#: config.php:1480
+msgid "Items / Row"
+msgstr ""
+
+#: core/wilcity_render_modern_term_boxes.php:47
+#: core/wilcity_render_term_boxes.php:46
+msgid "Listing"
+msgstr ""
+
+#: core/wilcity_render_modern_term_boxes.php:47
+#: core/wilcity_render_term_boxes.php:46
+msgid "Listings"
+msgstr ""
+
+#: config.php:1108
+msgid "Modern Term Boxes"
+msgstr ""
+
+#: config.php:1714
+msgid "Monday"
+msgstr ""
+
+#: app/SCHelpers.php:37 core/wilcity_widget_list_style.php:24
+msgid "No Comment"
+msgstr ""
+
+#: default-sc/wilcity-sidebar-business-hours.php:43
+msgid "Open 24/7"
+msgstr ""
+
+#: default-sc/wilcity-gallery.php:31
+msgid "Photo"
+msgstr ""
+
+#: default-sc/wilcity-gallery.php:31
+msgid "Photos"
+msgstr ""
+
+#: core/wilcity_render_contact_us.php:66
+msgid "Please select the contact form."
+msgstr ""
+
+#: default-sc/wilcity-sharing-posts.php:121
+msgid "Press Ctrl+C to copy this link"
+msgstr ""
+
+#: config.php:1472
+msgid "Pricing Table"
+msgstr ""
+
+#: default-sc/wilcity-sidebar-statistics.php:48
+msgid "Rating"
+msgstr ""
+
+#: default-sc/wilcity-pricing.php:84
+msgid "Remaining Items: "
+msgstr ""
+
+#: config.php:1719
+msgid "Saturday"
+msgstr ""
+
+#: app/SCHelpers.php:362
+msgid "Save to my favorites"
+msgstr ""
+
+#: config.php:966
+msgid "Search Form"
+msgstr ""
+
+#: default-sc/wilcity-sidebar-statistics.php:64
+msgid "Share"
+msgstr ""
+
+#: default-sc/wilcity-my-bank-account.php:25
+msgid "Short Code"
+msgstr ""
+
+#: core/wilcity_render_team_intro_slider.php:28
+#, php-format
+msgid "Sorry, We found no members who have %s role."
+msgstr ""
+
+#: config.php:1720
+msgid "Sunday"
+msgstr ""
+
+#: config.php:997
+msgid "Term Boxes"
+msgstr ""
+
+#: config.php:1717
+msgid "Thursday"
+msgstr ""
+
+#: default-sc/wilcity-sidebar-business-hours.php:73
+#: default-sc/wilcity-sidebar-business-hours.php:86
+msgid "Today"
+msgstr ""
+
+#: config.php:1715
+msgid "Tuesday"
+msgstr ""
+
+#: default-sc/wilcity-pricing.php:84
+msgid "Unlimited"
+msgstr ""
+
+#: config.php:1716
+msgid "Wednesday"
+msgstr ""
+
+#. Name of the plugin
+msgid "WilCity Shortcodes"
+msgstr ""
+
+#. Author of the plugin
+msgid "wiloke"
+msgstr ""
+
+#: default-sc/wilcity-pricing.php:104
+msgid ""
+"You do not have any Add Listing Plan. From the admin sidebar, click on "
+"Listing Plans to create one"
+msgstr ""

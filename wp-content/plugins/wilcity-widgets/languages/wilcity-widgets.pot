@@ -1,0 +1,85 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Wilcity Widgets\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-04 17:25+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: mailchimp/func.mailchimp.php:130 mailchimp/func.mailchimp.php:136
+msgid "Can not get list from your MailChimp"
+msgstr ""
+
+#: app/MailChimp.php:77
+msgid "Email..."
+msgstr ""
+
+#: app/AuthorProfile.php:71
+msgid "Follow"
+msgstr ""
+
+#: app/AuthorProfile.php:66
+msgid "Follower"
+msgstr ""
+
+#: app/AuthorProfile.php:66
+msgid "Followers"
+msgstr ""
+
+#: app/AuthorProfile.php:71
+msgid "Following"
+msgstr ""
+
+#: app/AuthorProfile.php:71
+msgid "Followings"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://wiloke.com"
+msgstr ""
+
+#: mailchimp/func.mailchimp.php:172 mailchimp/func.mailchimp.php:193
+msgid ""
+"Oops! Something went wrong. Please feedback this issue to the administrator."
+msgstr ""
+
+#: mailchimp/func.mailchimp.php:133
+msgid "This api key is already exist!"
+msgstr ""
+
+#. Description of the plugin
+msgid "This tool allows customizing your Add Listing page"
+msgstr ""
+
+#: mailchimp/func.mailchimp.php:157
+msgid "We are sorry, but to subscribe us you have to agree with our term."
+msgstr ""
+
+#. Name of the plugin
+msgid "Wilcity Widgets"
+msgstr ""
+
+#. Author of the plugin
+msgid "Wiloke"
+msgstr ""
+
+#: mailchimp/func.mailchimp.php:13
+msgid "Wiloke MailChimp"
+msgstr ""
+
+#: mailchimp/func.mailchimp.php:162
+msgid "You entered an invalid email. Please try with another"
+msgstr ""
+
+#: mailchimp/func.mailchimp.php:170
+msgid "You haven't configured MailChimp yet!"
+msgstr ""

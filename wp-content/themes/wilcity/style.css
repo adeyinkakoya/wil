@@ -1,0 +1,65 @@
+/*
+ * Theme Name: WilCity
+ * Theme URI: https://wilcity.com
+ * Author: wiloke
+ * Author URI: https://wiloke.com
+ * Description: Listing WordPress Theme
+ * Version: 1.1.6.1
+ * Text Domain: wilcity
+ * License: GNU General Public License v2 or later
+ * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+ * Tags: one-column, two-columns, right-sidebar, flexible-header, accessibility-ready, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, footer-widgets, post-formats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready
+ */
+
+
+.footer_widgets__3FIuV .widget_wilcity_mailchimp .content-box_body__3tSRB{
+    padding: 0;
+}
+
+.gm-style-iw {
+    overflow: hidden !important;
+    line-height: 1.35;
+    white-space: nowrap;
+}
+
+.temporary-hidden{
+    display: none;
+}
+.temporary-disable{
+    opacity: .5 !important;
+    pointer-events: none !important;
+}
+.focus-hidden{
+    display: none !important;
+}
+
+.inline-block{
+    display: inline-block;
+}
+
+.float-left{
+    float:left;
+}
+
+.visible-hidden{
+    visibility: hidden;
+}
+
+.focus-visible-showing{
+    visibility: visible !important;
+}
+
+#comments-list .nav-links{
+    margin: 25px 0;
+}
+
+#comments-list .nav-links .page-numbers{
+    margin: 0;
+}
+.bg-none{
+    background: none !important;
+}
+.wilcity-google-recaptcha-wrapper > div > div {
+    margin-left: auto;
+    margin-right: auto;
+}

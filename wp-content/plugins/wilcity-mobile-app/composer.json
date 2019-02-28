@@ -1,0 +1,10 @@
+{
+    "autoload": {
+	"psr-4": {
+		"WILCITY_APP\\":"app/"
+	}
+    },
+    "require": {
+        "rbdwllr/reallysimplejwt": "^1.0"
+    }
+}

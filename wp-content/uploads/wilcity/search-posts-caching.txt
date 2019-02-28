@@ -1,0 +1,1 @@
+{"1":{"postTitle":"Hello world!","postType":"post","postLink":"http:\/\/localhost\/artisana\/?post_type=post&p=1","thumbnail":false,"thumbnailLarge":false,"logo":"","name":"Posts","singularName":"Post","groupIcon":"","groupIconColor":"","oIcon":false}}
